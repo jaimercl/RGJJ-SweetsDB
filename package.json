@@ -1,0 +1,22 @@
+{
+  "name": "rgjj-sweetsdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimercl/RGJJ-SweetsDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimercl/RGJJ-SweetsDB/issues"
+  },
+  "homepage": "https://github.com/jaimercl/RGJJ-SweetsDB#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
